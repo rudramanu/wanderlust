@@ -18,3 +18,4 @@ pycparser==2.21
 python-decouple==3.8
 SQLAlchemy==2.0.23
 typing_extensions==4.7.1
+Werkzeug==3.0.1
